@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "angular-PU"
+  "defaultProject": "angular-PU",
+  "cli": {
+    "analytics": "d2e09081-c4ec-4944-90db-8b7b0c61e196"
+  }
 }

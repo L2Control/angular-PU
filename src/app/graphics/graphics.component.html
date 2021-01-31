@@ -1,0 +1,9 @@
+<h4>
+  <label for="input-box"
+    >Put in work to be done, ie task, time, task, time etc...</label
+  >
+</h4>
+<input #inputBox id="input-box" />
+<button title="button-input" (click)="submitInput(inputBox.value)">
+  Submit
+</button>
